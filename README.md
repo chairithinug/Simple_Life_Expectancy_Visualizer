@@ -6,6 +6,8 @@ To use the program, you may need to change the width and height (display size), 
 You will need to change the life_expectancy (in years) and your birthdate.
 You may also want to change the output location of the picture.
 
+This program is coded in python3. To run the program, you need to have the required libraries (see in the code).
+
 Feel free to play with the code and change bunches of stuff to your heart content.
 
 I got my motivation to write a code from this video: https://www.youtube.com/watch?v=5w6GLvaAdCQ
