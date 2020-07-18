@@ -14,3 +14,5 @@ I got my motivation to write a code from this video: https://www.youtube.com/wat
 
 Let me know if you have any questions.
 Got to go to chase my dream~!
+
+![](Example_output.jpg?raw=true)
